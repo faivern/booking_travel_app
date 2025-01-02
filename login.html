@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log In / Sign Up</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+</head>
+<body>
+        <div class="card m-4 p-2">
+          <h4 class="text-center mb-4 border-bottom pb-1">Log in or sign up</h2>
+          <form>
+            <!-- Tel -->
+            <div class="mb-3">
+                <h2 class="text">Welcome to Airbnb</h2>
+              <input type="email" class="form-control" id="email" placeholder="name@example.com" required>
+              <input type="tel" class="form-control" id="tel" placeholder="Phone number" required>
+              <p class="pt-1 text-muted small">
+                  We’ll call or text you to confirm your number. Standard message and data rates apply.
+              </p>
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit" class="btn btn-primary w-100">Continue</button>
+          </form>
+    
+          <!-- line divider -->
+          <div class="text-center my-3 d-flex align-items-center">
+            <hr class="flex-grow-1">
+            <small class="text-muted mx-2">or</small>
+            <hr class="flex-grow-1">
+          </div>
+    
+          <!-- Social Login Buttons -->
+          <div class="d-grid gap-2">
+            <button type="button" class="btn btn-outline-dark">
+              Continue with Google
+            </button>
+            <button type="button" class="btn btn-outline-dark">
+                Continue with Apple
+              </button>
+              <button type="button" class="btn btn-outline-dark">
+                Continue with Email
+              </button>
+            <button type="button" class="btn btn-outline-dark">
+                Continue with Facebook
+              </button>
+          </div>
+    
+        </div>
+
+</body>
+</html>

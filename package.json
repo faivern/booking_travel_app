@@ -1,0 +1,22 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # Bokningssystem för Resande (CRUD-applikation / AIRBNB-CLONE)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faivern/booking_travel_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faivern/booking_travel_app/issues"
+  },
+  "homepage": "https://github.com/faivern/booking_travel_app#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
