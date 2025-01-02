@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bokningssystem för Resande (CRUD-applikation / AIRBNB-CLONE)
 
 ## Projektöversikt
@@ -142,3 +143,7 @@ Det här projektet är ett bokningssystem för resande, där användare kan sök
 ## Kontakt
 Om du har frågor eller vill ha support under utvecklingen, kontakta mig på **[din e-post här]**.
 
+=======
+# booking_travel_app
+CRUD Application
+>>>>>>> 0c7bed90df497a34f8a561f561f0e57c300cfd97
